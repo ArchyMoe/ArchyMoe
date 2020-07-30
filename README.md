@@ -6,6 +6,15 @@
 
 - [Nastery](https://nastery.now.sh) | [Nastery Repo](https://github.com/userunknownx/nastery)
 
+- [CPP Algo](https://cpp.userunknown.gq) | [C++-Algos Repo](https://github.com/userunknownx/cpp-algo)
+
+### 📫 How to reach me: 
+
+- [E-Mail](Mailto:userunknownx@protonmail.com)
+
+- [Luogu](https://www.luogu.com.cn/chat?uid=197881)
+
+
 <!--
 **UserUnknownX/UserUnknownX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -10,7 +10,7 @@
 
 ### 📫 How to reach me: 
 
-- [E-Mail](Mailto:userunknownx@protonmail.com)
+- [E-Mail](Mailto:admin@userunknown.gq)
 
 - [Luogu](https://www.luogu.com.cn/chat?uid=197881)
 

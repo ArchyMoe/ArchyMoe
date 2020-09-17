@@ -6,7 +6,7 @@
 
 - [Nastery](https://nastery.now.sh) | [Nastery Repo](https://github.com/userunknownx/nastery)
 
-- [Random-Picture](https://random-pic.now.sh) | [Random-Picture](https://github.com/UserUnknownX/Random-Picture)
+- [Random-Picture](https://random-pic.now.sh) | [Random-Picture Repo](https://github.com/UserUnknownX/Random-Picture)
 
 ### 📫 How to reach me: 
 

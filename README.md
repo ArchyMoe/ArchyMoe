@@ -6,7 +6,7 @@
 
 - [Nastery](https://nastery.now.sh) | [Nastery Repo](https://github.com/userunknownx/nastery)
 
-- [CPP Algo](https://cpp.userunknown.gq) | [C++-Algos Repo](https://github.com/userunknownx/cpp-algo)
+- [Random-Picture](https://random-pic.now.sh) | [Random-Picture](https://github.com/UserUnknownX/Random-Picture)
 
 ### 📫 How to reach me: 
 

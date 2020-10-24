@@ -8,7 +8,7 @@
 
 ### 📫 How to reach me: 
 
-- [E-Mail](Mailto:userunknownx@pm.me)
+- E-Mail: ArchyMoe#gmail.com
 
 - [Luogu](https://www.luogu.com.cn/chat?uid=197881)
 

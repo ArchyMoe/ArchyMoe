@@ -4,7 +4,7 @@
 
 ### 🔭 I’m currently working on:
 
-- [Random-Picture](https://random-pic.now.sh) | [Random-Picture Repo](/Random-Picture)
+- [ArchyBlog](http://archy-blog.now.sh) | [Random-Picture Repo](/ArchyBlog)
 
 ### 📫 How to reach me: 
 
